@@ -3,6 +3,14 @@
 using namespace std;
 
 int main() {
+
+  /*
+   Scrivere un programma che dato un numero maggiore di 10 visualizzi se è
+   multiplo solo di 2 oppure se è multiplo solo di 3 oppure se è multiplo di
+   entrambi o né di 2 né di 3, se il numero non è valido (non maggiore di 10)
+   visualizzi un messaggio di errore.
+  */
+
   int n;
 
   do {

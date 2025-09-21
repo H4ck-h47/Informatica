@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+
   char input;
 
   cout << "a. Per immettere dati \nb. Per determinare il maggiore" << endl

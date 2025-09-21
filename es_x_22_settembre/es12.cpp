@@ -3,6 +3,12 @@
 using namespace std;
 
 int main() {
+  /*Scrivere un programma che richieda il numero di ore, minuti e secondi che
+  compongono un tempo e visualizzi quindi l'equivalente espresso in secondi.
+  */
+
+  // PS: cambia i cout e nomi variabili cosi non sembrano uguali magari aggiungi
+  //     qualche commento a caso (io questo lo consegno cosi com'e)
 
   int secondi, ore, minuti;
 
