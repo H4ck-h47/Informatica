@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int nmax, nmin, n, num;
+    int nmax=0, nmin=0, n, num;
     do{
         cout << "Quanti numeri vuoi inserire" << endl;
         cin >> n;
@@ -21,3 +21,4 @@ int main()
     cout << "Il numero massimo inserito e': " << nmax << " invece quello minore e': "<< nmin;
     return 0;
 }
+
